@@ -1,0 +1,6 @@
+digit_classifier.ipynb
+*.venv/
+*.zip
+data/
+test_images/
+train_images/
